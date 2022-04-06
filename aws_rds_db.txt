@@ -1,0 +1,4 @@
+Username: admin
+Password: sql_2022
+Host: lmu-dev-01.cumqwllb4czp.us-west-1.rds.amazonaws.com 
+Database: airline
