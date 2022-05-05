@@ -31,8 +31,12 @@
   sql_project_data_collection.ipynb: This notebook documents all the code used to collect the data from Kayak URLs. It has directions to understand what is going on in 
   each cell of the notebook. 
   
+  https://github.com/bshah6000/AIMS_4715_Airline_Analytics/blob/49e4ab3768d1a758a510674d3eb10be24b7ddcec/sql_project_data_collection.ipynb 
+  
   sql_analysis.ipynb: This notebook documents the analytics that I did on the data after collecting it. It includes the SQL code that I put in the notebook and 
   executed on the database, as well as the expected results. 
+  
+  https://github.com/bshah6000/AIMS_4715_Airline_Analytics/blob/49e4ab3768d1a758a510674d3eb10be24b7ddcec/sql_project_data_collection.ipynb
   
 6. Improvements:
   a. if I had more time: Sometimes, scope of data collected seemed too narrow. In addition, distribution of flights, i.e. availability of each and every time was not 
