@@ -2,7 +2,7 @@
 
 2. Project Objective:
 
-  a. This project solves the problem of declining revenue streams in today's post-COVID-19-pandemic companies. Declining revenue streams resulting from a sharp decrease    in travel led these companies to struggle to maintain their financial positions.
+  a. This project solves the problem of declining revenue streams in today's post-COVID-19-pandemic companies. Declining revenue streams resulting from a sharp decrease in travel led these companies to struggle to maintain their financial positions.
   
   b. By analyzing patterns in today's prices for airline tickets, we can use these patterns to plan for what flights should be offered in the future, thereby    enhancing demand. 
   
